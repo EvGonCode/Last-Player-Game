@@ -1,0 +1,6 @@
+#include "resource.h"
+
+icon_frame ICON "../Last_Player/Images/icon-window.ico"
+icon_mute ICON "../Last_Player/Images/volume-mute.ico"
+icon_unmute ICON "../Last_Player/Images/volume-unmute.ico"
+icon_guide_frame ICON "../Last_Player/Images/nerd.ico"
